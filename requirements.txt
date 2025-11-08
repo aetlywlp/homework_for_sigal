@@ -1,0 +1,9 @@
+numpy>=1.19.0
+matplotlib>=3.3.0
+scipy>=1.5.0
+simpleaudio>=1.0.4
+pyaudio>=0.2.11
+librosa>=0.9.0
+PyQt5>=5.15.0
+
+drvi~=0.0.10
